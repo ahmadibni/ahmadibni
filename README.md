@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning MERN Stack and Flutter
 
 ## My Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadibni&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadibni&layout=compact)(https://github-readme-stats.vercel.app/api?username=ahmadibni&show_icons=true&theme=radical)
 <!--
 **ahmadibni/ahmadibni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
