@@ -3,8 +3,8 @@
 - 🔭 I’m a Software Engineer, Bangkit Academy Alumni, and Tech Enthusiast
 - 🌱 I’m currently learning MERN Stack and Flutter
 
-## My Statistic
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadibni&layout=compact) 
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=ahmadibni&show_icons=true&theme=radical)
 <!--
 **ahmadibni/ahmadibni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
