@@ -1,7 +1,7 @@
 ## Hi there, Ahmad Ibni Abdillah here 👋
 
 - 🔭 I’m a Software Engineer, Bangkit Academy Alumni, and Tech Enthusiast
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning MERN Stack and Laravel
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadibni&layout=compact) 
 
