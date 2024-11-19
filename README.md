@@ -3,7 +3,7 @@
 - 🔭 I’m a Software Engineer, Bangkit Academy Alumni, and Tech Enthusiast
 - 🌱 I’m currently learning MERN Stack and Laravel
 
-![image](https://github.com/user-attachments/assets/bda13382-a5b1-42d1-88b2-b9d1db358f57)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadibni&layout=compact) 
