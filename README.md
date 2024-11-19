@@ -3,9 +3,10 @@
 - 🔭 I’m a Software Engineer, Bangkit Academy Alumni, and Tech Enthusiast
 - 🌱 I’m currently learning MERN Stack and Laravel
 
+(https://www.google.com/imgres?q=react&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F30%2FReact_Logo_SVG.svg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FReact_(software)&docid=Fiz1iGC5gm0AcM&tbnid=1YRCTmBnER_nsM&vet=12ahUKEwjMzJOfwueJAxVsTGcHHUuzKT8QM3oECBoQAA..i&w=800&h=728&hcb=2&itg=1&ved=2ahUKEwjMzJOfwueJAxVsTGcHHUuzKT8QM3oECBoQAA)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadibni&layout=compact) 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=ahmadibni&show_icons=true&theme=default#gh-light-mode-only)]
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahmadibni)]
 <!--
 **ahmadibni/ahmadibni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
