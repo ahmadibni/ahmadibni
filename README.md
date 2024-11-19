@@ -2,7 +2,7 @@
 
 - 🔭 I’m a Software Engineer, Bangkit Academy Alumni, and Tech Enthusiast
 
-## My Toolkit :wrench:
+## What i use... :wrench:
 [![My Skills](https://skillicons.dev/icons?i=js,php,tailwind,bootstrap,react,alpinejs,laravel,nodejs,mysql,sqlite,firebase,figma,git)](https://skillicons.dev)
 
 
