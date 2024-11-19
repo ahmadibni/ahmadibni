@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning MERN Stack and Laravel
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadibni&layout=compact) 
-![My Stats](https://github-readme-stats.vercel.app/api?username=ahmadibni&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahmadibni)](https://github.com/anuraghazra/github-readme-stats)
+![My Stats](https://github-readme-stats.vercel.app/api?username=ahmadibni&show_icons=true&theme=default#gh-light-mode-only)]
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahmadibni)]
 <!--
 **ahmadibni/ahmadibni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
