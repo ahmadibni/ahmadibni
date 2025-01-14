@@ -7,7 +7,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadibni&layout=compact) 
-![My Stats](https://github-readme-stats.vercel.app/api?username=ahmadibni&show_icons=true&theme=default#gh-light-mode-only)]
+![My Stats](https://github-readme-stats.vercel.app/api?username=ahmadibni&show_icons=true&theme=default#gh-light-mode-only)
 <!--
 **ahmadibni/ahmadibni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
