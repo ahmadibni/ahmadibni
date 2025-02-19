@@ -3,7 +3,7 @@
 - 🔭 I’m a Software Engineer, Bangkit Academy Alumni, and Tech Enthusiast
 
 ## My Toolkits :wrench:
-[![My Skills](https://skillicons.dev/icons?i=js,php,tailwind,bootstrap,react,flutter,alpinejs,express,laravel,nodejs,mysql,sqlite,firebase,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,php,tailwind,bootstrap,react,flutter,nextjs,alpinejs,express,laravel,nodejs,mysql,sqlite,firebase,figma,git)](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadibni&layout=compact) 
