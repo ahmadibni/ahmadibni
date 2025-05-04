@@ -3,6 +3,9 @@
 - 🔭 I’m a Software Engineer, Bangkit Academy Alumni, and Tech Enthusiast
 
 # My Toolkits :wrench:
+# Language
+[![My Skills](https://skillicons.dev/icons?i=js,php)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=js,php,tailwind,bootstrap,react,nextjs,nodejs,express,laravel,mysql,mongodb,sqlite,firebase,figma,git)](https://skillicons.dev)
 
 
