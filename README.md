@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,php)](https://skillicons.dev)
 
 ## Front-End :
-[![My Skills](https://skillicons.dev/icons?i=jtailwind,bootstrap,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,react,nextjs)](https://skillicons.dev)
 
 ## Back-End :
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,laravel)](https://skillicons.dev)
@@ -15,7 +15,7 @@
 ## Database :
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase)](https://skillicons.dev)
 
-## Tools
+## Tools :
 [![My Skills](https://skillicons.dev/icons?i=figma,git)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadibni&layout=compact) 
