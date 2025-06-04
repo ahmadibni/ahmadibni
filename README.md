@@ -4,7 +4,7 @@
 
 # My Toolkits :wrench:
 ## Language :
-[![My Skills](https://skillicons.dev/icons?i=js,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php)](https://skillicons.dev)
 
 ## Front-End :
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,react,nextjs)](https://skillicons.dev)
